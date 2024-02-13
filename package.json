@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "node-js-http-requests",
+  "description": "This is a sim ple nodejs project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello",
+    "dev": "nodemon hello"
+  },
+  "author": "periyanayakib",
+  "license": "ISC"
+}
